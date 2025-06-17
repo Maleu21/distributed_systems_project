@@ -1,0 +1,208 @@
+Lancement du déploiement avec un objectif de 20 machines
+Validation des connexions SSH...
+Succès de la connexion : 137.194.140.194
+Succès de la connexion : 137.194.140.195
+Succès de la connexion : 137.194.140.197
+Succès de la connexion : 137.194.140.198
+Succès de la connexion : 137.194.140.199
+Succès de la connexion : 137.194.140.200
+Succès de la connexion : 137.194.140.201
+Succès de la connexion : 137.194.140.202
+Succès de la connexion : 137.194.140.203
+Succès de la connexion : 137.194.140.204
+Succès de la connexion : 137.194.140.205
+Succès de la connexion : 137.194.140.206
+Succès de la connexion : 137.194.140.207
+Succès de la connexion : 137.194.140.209
+Succès de la connexion : 137.194.140.210
+Succès de la connexion : 137.194.140.213
+Succès de la connexion : 137.194.140.214
+Succès de la connexion : 137.194.140.216
+Succès de la connexion : 137.194.140.217
+Succès de la connexion : 137.194.140.218
+Machines retenues (20 disponibles) : 137.194.140.194 137.194.140.195 137.194.140.197 137.194.140.198 137.194.140.199 137.194.140.200 137.194.140.201 137.194.140.202 137.194.140.203 137.194.140.204 137.194.140.205 137.194.140.206 137.194.140.207 137.194.140.209 137.194.140.210 137.194.140.213 137.194.140.214 137.194.140.216 137.194.140.217 137.194.140.218
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00000.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00000.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00001.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00001.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00002.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00002.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00003.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00003.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00004.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00004.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00005.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00005.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00006.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00006.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00007.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00007.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00008.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00008.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00009.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00009.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00010.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00010.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00011.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00011.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00012.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00012.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00013.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00013.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00014.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00014.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00015.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00015.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00016.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00016.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00017.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00017.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00018.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00018.warc.wet
+Tentative de téléchargement du fichier : CC-MAIN-20230320083513-20230320113513-00019.warc.wet
+Téléchargement réussi : CC-MAIN-20230320083513-20230320113513-00019.warc.wet
+Téléchargement des fichiers : 497 secondes
+Taille totale des fichiers téléchargés : 6502 Mo
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00000.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00001.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00002.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00003.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00004.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00005.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00006.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00007.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00008.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00009.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00010.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00011.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00012.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00013.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00014.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00015.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00016.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00017.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00018.warc.wet
+Fractionnement du fichier : ./dossierAdeployer/CC-MAIN-20230320083513-20230320113513-00019.warc.wet
+Fichier ignoré pour le fractionnement : ./dossierAdeployer/fichiers_sources.txt
+Fichier ignoré pour le fractionnement : ./dossierAdeployer/script.py
+Fichier ignoré pour le fractionnement : ./dossierAdeployer/script_f.py
+Fractionnement des fichiers : 128 secondes
+Répartition des blocs : 388 secondes
+Début Phase 1 : Mapping
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+Déploiement de script_f.py sur les machines...
+OK Phase 1 : Mapping Machine 137.194.140.216
+OK Phase 1 : Mapping Machine 137.194.140.217
+OK Phase 1 : Mapping Machine 137.194.140.218
+OK Phase 1 : Mapping Machine 137.194.140.194
+OK Phase 1 : Mapping Machine 137.194.140.201
+OK Phase 1 : Mapping Machine 137.194.140.202
+OK Phase 1 : Mapping Machine 137.194.140.209
+OK Phase 1 : Mapping Machine 137.194.140.198
+OK Phase 1 : Mapping Machine 137.194.140.205
+OK Phase 1 : Mapping Machine 137.194.140.200
+OK Phase 1 : Mapping Machine 137.194.140.214
+OK Phase 1 : Mapping Machine 137.194.140.199
+OK Phase 1 : Mapping Machine 137.194.140.207
+OK Phase 1 : Mapping Machine 137.194.140.213
+OK Phase 1 : Mapping Machine 137.194.140.206
+OK Phase 1 : Mapping Machine 137.194.140.210
+OK Phase 1 : Mapping Machine 137.194.140.195
+OK Phase 1 : Mapping Machine 137.194.140.203
+OK Phase 1 : Mapping Machine 137.194.140.197
+OK Phase 1 : Mapping Machine 137.194.140.204
+Phase de mapping : 66 secondes
+Fin Phase 1 : Mapping
+Début Phase 2 : Shuffle
+Phase de shuffle : 43 secondes
+Fin Phase 2 : Shuffle
+Début Phase 3 : Réduction
+OK Phase 3 : Réduction Machine 137.194.140.200 pour partie 6
+OK Phase 3 : Réduction Machine 137.194.140.198 pour partie 4
+OK Phase 3 : Réduction Machine 137.194.140.199 pour partie 5
+OK Phase 3 : Réduction Machine 137.194.140.214 pour partie 17
+OK Phase 3 : Réduction Machine 137.194.140.195 pour partie 2
+OK Phase 3 : Réduction Machine 137.194.140.207 pour partie 13
+OK Phase 3 : Réduction Machine 137.194.140.197 pour partie 3
+OK Phase 3 : Réduction Machine 137.194.140.201 pour partie 7
+OK Phase 3 : Réduction Machine 137.194.140.213 pour partie 16
+OK Phase 3 : Réduction Machine 137.194.140.209 pour partie 14
+OK Phase 3 : Réduction Machine 137.194.140.205 pour partie 11
+OK Phase 3 : Réduction Machine 137.194.140.206 pour partie 12
+OK Phase 3 : Réduction Machine 137.194.140.204 pour partie 10
+OK Phase 3 : Réduction Machine 137.194.140.203 pour partie 9
+OK Phase 3 : Réduction Machine 137.194.140.210 pour partie 15
+OK Phase 3 : Réduction Machine 137.194.140.218 pour partie 20
+OK Phase 3 : Réduction Machine 137.194.140.202 pour partie 8
+OK Phase 3 : Réduction Machine 137.194.140.216 pour partie 18
+OK Phase 3 : Réduction Machine 137.194.140.217 pour partie 19
+OK Phase 3 : Réduction Machine 137.194.140.194 pour partie 1
+Phase de réduction : 2 secondes
+Fin Phase 3 : Réduction
+Début Phase 4 : Agrégation
+Récupération des fichiers reduce depuis les machines distantes...
+OK Phase 4 : Agrégation Machine 137.194.140.194
+OK Phase 4 : Agrégation Machine 137.194.140.195
+OK Phase 4 : Agrégation Machine 137.194.140.197
+OK Phase 4 : Agrégation Machine 137.194.140.198
+OK Phase 4 : Agrégation Machine 137.194.140.199
+OK Phase 4 : Agrégation Machine 137.194.140.200
+OK Phase 4 : Agrégation Machine 137.194.140.201
+OK Phase 4 : Agrégation Machine 137.194.140.202
+OK Phase 4 : Agrégation Machine 137.194.140.203
+OK Phase 4 : Agrégation Machine 137.194.140.204
+OK Phase 4 : Agrégation Machine 137.194.140.205
+OK Phase 4 : Agrégation Machine 137.194.140.206
+OK Phase 4 : Agrégation Machine 137.194.140.207
+OK Phase 4 : Agrégation Machine 137.194.140.209
+OK Phase 4 : Agrégation Machine 137.194.140.210
+OK Phase 4 : Agrégation Machine 137.194.140.213
+OK Phase 4 : Agrégation Machine 137.194.140.214
+OK Phase 4 : Agrégation Machine 137.194.140.216
+OK Phase 4 : Agrégation Machine 137.194.140.217
+OK Phase 4 : Agrégation Machine 137.194.140.218
+Agrégation des fichiers reduce...
+Phase d'agrégation : 20 secondes
+Fin Phase 4 : Agrégation
+Résultats disponible dans : ./dossierAdeployer/resultat.txt
+Lancement du deuxième MapReduce pour trier les résultats...
+Lancement du deuxième MapReduce pour trier les résultats...
+Début Phase 1 : Mapping (tri)...
+Lancement du mapping (tri) sur la machine 137.194.140.199
+Lancement du mapping (tri) sur la machine 137.194.140.194
+Lancement du mapping (tri) sur la machine 137.194.140.198
+Lancement du mapping (tri) sur la machine 137.194.140.195
+Lancement du mapping (tri) sur la machine 137.194.140.197
+Lancement du mapping (tri) sur la machine 137.194.140.201
+Lancement du mapping (tri) sur la machine 137.194.140.200
+Lancement du mapping (tri) sur la machine 137.194.140.202
+Lancement du mapping (tri) sur la machine 137.194.140.203
+Lancement du mapping (tri) sur la machine 137.194.140.204
+Lancement du mapping (tri) sur la machine 137.194.140.205
+Lancement du mapping (tri) sur la machine 137.194.140.206
+Lancement du mapping (tri) sur la machine 137.194.140.207
+Lancement du mapping (tri) sur la machine 137.194.140.209
+Lancement du mapping (tri) sur la machine 137.194.140.210
+Lancement du mapping (tri) sur la machine 137.194.140.214
+Lancement du mapping (tri) sur la machine 137.194.140.213
+Lancement du mapping (tri) sur la machine 137.194.140.216
+Lancement du mapping (tri) sur la machine 137.194.140.217
+Lancement du mapping (tri) sur la machine 137.194.140.218
